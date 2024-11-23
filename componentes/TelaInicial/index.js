@@ -27,8 +27,8 @@ export default function TelaInicial (props) {
       />
       <Button 
         title="Ver 3ª Trilogia" 
-        onPress={() => props.navigation.navigate("Trilogia 3")} color="#372d00" /
-      > 
+        onPress={() => props.navigation.navigate("Trilogia 3")} color="#372d00" 
+      /> 
     </View>
   )
 }
